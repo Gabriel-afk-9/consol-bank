@@ -28,11 +28,11 @@ ConsolBank é uma aplicação simples de **banco em Java**, executada no **conso
 
 src
 └── app
-    ├── model
-    │ └── Account.java
-    ├── service
-    │ └── AccountService.java
-    └── Main.java
+├── model
+│ └── Account.java
+├── service
+│ └── AccountService.java
+└── Main.java
 
 ---
 
